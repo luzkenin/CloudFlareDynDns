@@ -1,3 +1,9 @@
+Credit
+--------------
+Source is from https://github.com/potatoqualitee/modules
+
+I copied files over to this because I'm bad at git. Thanks Chrissy
+
 CloudFlareDynDns
 --------------
 Updates specified CloudFlare DNS hostname to the current connection's external IP address using CloudFlare API v4 https://api.cloudflare.com/
